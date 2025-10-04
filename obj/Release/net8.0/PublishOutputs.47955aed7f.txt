@@ -1,0 +1,5 @@
+D:\MyProgramsC#\ArithmeticGenerator_01\ArithmeticTaskGenerator.exe
+D:\MyProgramsC#\ArithmeticGenerator_01\ArithmeticTaskGenerator.dll
+D:\MyProgramsC#\ArithmeticGenerator_01\ArithmeticTaskGenerator.deps.json
+D:\MyProgramsC#\ArithmeticGenerator_01\ArithmeticTaskGenerator.runtimeconfig.json
+D:\MyProgramsC#\ArithmeticGenerator_01\ArithmeticTaskGenerator.pdb

@@ -1,0 +1,14 @@
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\obj\Debug\net8.0\ArithmeticTaskGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\obj\Debug\net8.0\ArithmeticTaskGenerator.AssemblyInfoInputs.cache
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\obj\Debug\net8.0\ArithmeticTaskGenerator.AssemblyInfo.cs
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\obj\Debug\net8.0\ArithmeticTaskGenerator.csproj.CoreCompileInputs.cache
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\bin\Debug\net8.0\ArithmeticTaskGenerator.exe
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\bin\Debug\net8.0\ArithmeticTaskGenerator.deps.json
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\bin\Debug\net8.0\ArithmeticTaskGenerator.runtimeconfig.json
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\bin\Debug\net8.0\ArithmeticTaskGenerator.dll
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\bin\Debug\net8.0\ArithmeticTaskGenerator.pdb
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\obj\Debug\net8.0\ArithmeticTaskGenerator.dll
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\obj\Debug\net8.0\refint\ArithmeticTaskGenerator.dll
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\obj\Debug\net8.0\ArithmeticTaskGenerator.pdb
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\obj\Debug\net8.0\ArithmeticTaskGenerator.genruntimeconfig.cache
+D:\Programing\C#\C#OOP\Interfaces and Abstraction\MathamaticTaskGenerator\ArithmeticTaskGenerator\obj\Debug\net8.0\ref\ArithmeticTaskGenerator.dll
